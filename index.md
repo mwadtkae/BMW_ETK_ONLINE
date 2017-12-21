@@ -1,8 +1,6 @@
 # Welcome to BMW ONLINE ETK GitHub Page 🚗
 
-This project 
-
-The project was convert the **BMW ETK (electronic parts catalogue)** from ETK database to mysql. 
+This project project was convert the **BMW ETK (electronic parts catalogue)** from ETK database to mysql. 
 “All parts, part numbers, pictures, categories, prices, parts weight.... all data “ And make all thing online like e-commerce platform “ 
 
 
