@@ -1,8 +1,10 @@
 # Welcome to BMW ONLINE ETK GitHub Page 🚗
 
-You can use the [editor on GitHub](https://github.com/mwadtkae/bmw/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This project 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The project was convert the ** BMW ETK (electronic parts catalogue)** from ETK database to mysql. 
+“All parts, part numbers, pictures, categories, prices, parts weight.... all data “ And make all thing online like e-commerce platform “ 
+
 
 ### Markdown Code snipt
 
