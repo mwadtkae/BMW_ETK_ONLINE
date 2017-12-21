@@ -2,7 +2,7 @@
 
 This project 
 
-The project was convert the ** BMW ETK (electronic parts catalogue)** from ETK database to mysql. 
+The project was convert the **BMW ETK (electronic parts catalogue)** from ETK database to mysql. 
 “All parts, part numbers, pictures, categories, prices, parts weight.... all data “ And make all thing online like e-commerce platform “ 
 
 
